@@ -1,4 +1,6 @@
-# NLP-Clasificacion-y-QA
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 Notebooks para aprender a realizar tareas NLP: clasificación (dataset MNLI) y 'Question-Answering' (dataset SQuAD).
